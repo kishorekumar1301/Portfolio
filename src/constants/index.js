@@ -76,30 +76,27 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "Python",
+    icon: Python,
   },
   {
-    name: "git",
-    icon: git,
+    name: "java",
+    icon: java,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "MySQL",
+    icon: MySQL,
   },
-  {
-    name: "Material UI",
-    icon: materialui,
-  },
+ 
 ];
 
 const experiences = [
   {
-    title: "Web Developer",
-    company_name: "Hexaware Technologies",
-    icon: hexaware,
+    team: "Automation",
+    company_name: "Ohm Energy System Private Limited",
+    icon: Ohm,
     iconBg: "#E6DEDD",
-    date: "Mar 2024 - Present",
+    date: "Dec 2025-june 2026 ",
     points: [
       "Developed ticket tracking webpages using HTML, CSS and Javascript that will help the internal teams to create, and track the issues.",
       "Provided L2 and L3 level support on their existing tools such as implementing enhancement and sorting out the bugs.",
