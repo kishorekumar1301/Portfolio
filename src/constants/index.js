@@ -77,7 +77,7 @@ const technologies = [
   },
   {
     name: "Python",
-    icon: Python,
+    icon: pnython,
   },
   {
     name: "java",
