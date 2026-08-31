@@ -3,6 +3,7 @@ import {
   backend,
   creator,
   web,
+ MySQL,
   javascript,
   typescript,
   html,
@@ -75,14 +76,8 @@ const technologies = [
     name: "React JS",
     icon: reactjs,
   },
-  {
-    name: "Python",
-    icon: pnython,
-  },
-  {
-    name: "java",
-    icon: java,
-  },
+
+
   {
     name: "MySQL",
     icon: MySQL,
