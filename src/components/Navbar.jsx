@@ -2,8 +2,8 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { styles } from "../style";
 import { navLinks } from "../constants/index.js";
-import { logo, menu, close } from "../assets";
-
+import {  menu, close } from "../assets";
+import logo from "../assets/logo_k1.svg"
 const Navbar = () => {
   const [active, setActive] = useState("");
   const [toggle, setToggle] = useState(false);
