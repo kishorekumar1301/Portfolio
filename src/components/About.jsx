@@ -42,11 +42,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         <p>
-          A skilled software developer with experience in Javascript, and
-          expertise in frameworks like React.js. I'm a quick learner and
-          collaborate closely with clients to create efficient, scalable, and
-          user-friendly solutions that solve real-world problems. Let's work
-          together to bring your ideas to life!
+          I am a fresh Electronics and Communication Engineering graduate with a strong passion for web development. My journey into tech is driven by curiosity and a problem-solving mindset. I specialize in crafting modern user interfaces using React.js and JavaScript, focusing on clean code, performance, and seamless user experiences. I'm actively looking for opportunities to contribute to real-world projects and grow as a developer.
         </p>
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10 justify-center">
